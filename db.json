@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,163 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 1
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 2
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 3
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 4
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 5
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 6
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 7
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 8
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 9
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 10
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 11
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 12
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 13
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 14
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 15
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 16
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 17
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 18
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 19
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 20
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 21
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 22
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 23
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 24
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 25
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 26
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 27
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 28
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 29
+    },
+    {
+      "name": "maxime",
+      "email": "maxime830@live.fr",
+      "id": 30
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
